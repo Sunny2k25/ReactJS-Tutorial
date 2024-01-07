@@ -1,11 +1,10 @@
-import Chai from "./chai.js";
+import Chai from "./chai"
 
 function App() {
   return (
-  //  <h1>Chai aur react</h1>
   <>
+  <h1>Hey! This is Sunny Jaiswal</h1>
   <Chai/>
-  <h3>my name is sunny</h3>
   </>
   );
 }

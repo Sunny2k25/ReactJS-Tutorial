@@ -1,10 +1,7 @@
+function Chai(){
+    return(
+        <h1>Chai is Ready in Basic react</h1>
 
-
-function Chai()
-{
-    return (
-        <h2>Chai in React</h2>
     )
 }
-
-export default Chai
+export default Chai;
